@@ -1,2 +1,2 @@
 # JollyJumper-Sequence
-A sequence of n numbers (n < 3000) is called Jolly Jumper if the absolute values of the differences between the successive elements take on all possible values from 1 through n-1. The definition implies that any sequence of a single integer is a jolly jumper.
+Java program to check whether a sequence is a Jolly Jumper.
